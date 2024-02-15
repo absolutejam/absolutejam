@@ -6,11 +6,11 @@
 💬 Discord - [absolutejam](https://discord.com/users/absolutejam)  
 ✉️ Mail - [james@absolutejam.co.uk](mailto:james@absolutejam.co.uk)  
 
-I'm pragmatic, not dogmatic.
-I generally use Go, Rust and Typescript, but I'm flexible!
+I'm pragmatic, not dogmatic.  
+I generally use Go, Rust and Typescript, but I'm flexible!  
 
 Check out my [About](https://crashloopbackoff.dev/about) page to learn more
-about me!
+about me!  
 
 ## 🏆 Things I'm passionate about in tech
 
